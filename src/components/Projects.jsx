@@ -113,7 +113,7 @@ function Projects({ preview = false }) {
         {preview && (
           <Reveal>
             <div className="projects-more">
-              <a href="/projects" className="project-link">
+              <a href="/arjun-portfolio-react/projects" className="project-link">
                 View all projects
                 <span className="project-arrow">→</span>
               </a>
