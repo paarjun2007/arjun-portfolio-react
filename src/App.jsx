@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <BrowserRouter>
+   <BrowserRouter basename="/arjun-portfolio-react">
       <Navbar />
 
       <main className="page-enter">
